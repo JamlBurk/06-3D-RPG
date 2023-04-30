@@ -8,7 +8,7 @@ Based on some of the [Kenney Character Assets](https://www.kenney.nl/) provided 
 
 Created in Blender 3.5 and Godot 3.5
 
-- Added original background track
+- Added original background track through Musescore 4
 - Completes basic requirements
 
 
